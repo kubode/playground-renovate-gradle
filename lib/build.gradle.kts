@@ -24,5 +24,5 @@ dependencies {
     commonMainImplementation(Dependencies.KotlinX.Coroutines.core)
     commonMainImplementation(Dependencies.KotlinX.Serialization.json)
 
-    commonMainImplementation("org.robolectric:robolectric:4.3.0")
+    commonMainImplementation("org.robolectric:robolectric:4.4")
 }
